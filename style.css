@@ -134,3 +134,19 @@ padding-top: 20px;
     }
 }
 
+.conteiner2{
+    display: flex; 
+    justify-content: end;
+}
+
+.conteiner3{
+    display: flex;
+    justify-content: end;
+}
+
+.about-img {
+    background-image: url(img/doodle.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
